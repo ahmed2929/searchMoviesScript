@@ -1,0 +1,141 @@
+{title: Beauty and the Beast | year: 1991GenreAnimation, Family, Fantasy, Musical, RomanceRate:8.0/10}
+{title: Snowden | year: 2016GenreBiography, Crime, Drama, ThrillerRate:7.3/10}
+{title: Good Will Hunting | year: 1997GenreDrama, RomanceRate:8.3/10}
+{title: Spectre | year: 2015GenreAction, Adventure, ThrillerRate:6.8/10}
+{title: Mad Max: Fury Road | year: 2015GenreAction, Adventure, Sci-Fi, ThrillerRate:8.1/10}
+{title: 10 Things I Hate About You | year: 1999GenreComedy, Drama, RomanceRate:7.3/10}
+{title: Syriana | year: 2005GenreDrama, ThrillerRate:6.9/10}
+{title: The Social Network | year: 2010GenreBiography, DramaRate:7.7/10}
+{title: Catch Me If You Can | year: 2002GenreBiography, Crime, DramaRate:8.1/10}
+{title: Sherlock Holmes | year: 2009GenreAction, Adventure, Crime, Mystery, ThrillerRate:7.6/10}
+{title: I Origins | year: 2014GenreDrama, Romance, Sci-FiRate:7.4/10}
+{title: Dallas Buyers Club | year: 2013GenreBiography, DramaRate:8.0/10}
+{title: Big Hero 6 | year: 2014GenreAnimation, Action, Adventure, Family, Sci-FiRate:7.8/10}
+{title: Assassin's Creed | year: 2016GenreAction, Adventure, Sci-FiRate:5.7/10}
+{title: Mr. Nobody | year: 2009GenreDrama, Fantasy, Romance, Sci-FiRate:7.8/10}
+{title: 12 Monkeys | year: 1995GenreMystery, Sci-Fi, ThrillerRate:8.0/10}
+{title: 12 Angry Men | year: 1957GenreDramaRate:8.9/10}
+{title: Seven Pounds | year: 2008GenreDramaRate:7.6/10}
+{title: Serpico | year: 1973GenreBiography, Crime, Drama, ThrillerRate:7.7/10}
+{title: Palo Alto | year: 2013GenreDramaRate:6.2/10}
+{title: The Machinist | year: 2004GenreDrama, ThrillerRate:7.7/10}
+{title: My Name Is Khan | year: 2010GenreDramaRate:8.0/10}
+{title: Project X | year: 2012GenreComedyRate:6.6/10}
+{title: The Grand Budapest Hotel | year: 2014GenreAdventure, Comedy, CrimeRate:8.1/10}
+{title: The Man from Earth | year: 2007GenreDrama, Fantasy, Sci-FiRate:7.9/10}
+{title: Dog Day Afternoon | year: 1975GenreBiography, Crime, Drama, ThrillerRate:8.0/10}
+{title: The Butterfly Effect | year: 2004GenreDrama, Sci-Fi, ThrillerRate:7.6/10}
+{title: Wallace & Gromit: The Best of Aardman Animation | year: 1996GenreAnimation, Comedy, FamilyRate:8.6/10}
+{title: Demolition Man | year: 1993GenreAction, Sci-Fi, ThrillerRate:6.7/10}
+{title: The Jacket | year: 2005GenreDrama, Fantasy, Mystery, Sci-Fi, ThrillerRate:7.1/10}
+{title: Private Collections | year: 1979GenreDrama, FantasyRate:5.3/10}
+{title: Submarine | year: 2010GenreComedy, Drama, RomanceRate:7.3/10}
+{title: Forrest Gump | year: 1994GenreDrama, RomanceRate:8.8/10}
+{title: Now You See Me | year: 2013GenreCrime, Mystery, ThrillerRate:7.3/10}
+{title: Last Knights | year: 2015GenreAction, Drama, History, WarRate:6.2/10}
+{title: The Big Short | year: 2015GenreBiography, Comedy, Drama, HistoryRate:7.8/10}
+{title: Stronger | year: 2017GenreBiography, DramaRate:6.9/10}
+{title: The Judge | year: 2014GenreCrime, DramaRate:7.4/10}
+{title: Before I Go to Sleep | year: 2014GenreDrama, Horror, Mystery, ThrillerRate:6.3/10}
+{title: The Wolf of Wall Street | year: 2013GenreBiography, Crime, DramaRate:8.2/10}
+{title: 500 Days of Summer | year: 2009GenreComedy, Drama, RomanceRate:7.7/10}
+{title: Finding Vivian Maier | year: 2013GenreDocumentary, Biography, MysteryRate:7.7/10}
+{title: Eternal Sunshine of the Spotless Mind | year: 2004GenreDrama, Romance, Sci-FiRate:8.3/10}
+{title: Birdman or (The Unexpected Virtue of Ignorance) | year: 2014GenreComedy, DramaRate:7.7/10}
+{title: Due Date | year: 2010GenreComedy, DramaRate:6.5/10}
+{title: The Curious Case of Benjamin Button | year: 2008GenreDrama, Fantasy, RomanceRate:7.8/10}
+{title: Fences | year: 2016GenreDramaRate:7.2/10}
+{title: Project Almanac | year: 2015GenreDrama, Mystery, Sci-Fi, ThrillerRate:6.4/10}
+{title: Scent of a Woman | year: 1992GenreDramaRate:8.0/10}
+{title: 21 Jump Street | year: 2012GenreAction, Comedy, CrimeRate:7.2/10}
+{title: Now You See Me 2 | year: 2016GenreAction, Adventure, Comedy, Crime, Mystery, ThrillerRate:6.5/10}
+{title: Life of Pi | year: 2012GenreAdventure, Drama, FantasyRate:7.9/10}
+{title: American Beauty | year: 1999GenreDramaRate:8.3/10}
+{title: Lucy | year: 2014GenreAction, Sci-Fi, ThrillerRate:6.4/10}
+{title: Detachment | year: 2011GenreDramaRate:7.7/10}
+{title: Divergent | year: 2014GenreAction, Adventure, Mystery, Sci-FiRate:6.7/10}
+{title: V for Vendetta | year: 2005GenreAction, Drama, Sci-Fi, ThrillerRate:8.2/10}
+{title: Adaptation. | year: 2002GenreComedy, DramaRate:7.7/10}
+{title: Midnight in Paris | year: 2011GenreComedy, Fantasy, RomanceRate:7.7/10}
+{title: Insomnia | year: 2002GenreDrama, Mystery, ThrillerRate:7.2/10}
+{title: How I Met Your Mother | year: 2005–2014GenreComedy, RomanceRate:8.3/10}
+{title: Liberal Arts | year: 2012GenreComedy, Drama, RomanceRate:6.7/10}
+{title: Amélie | year: 2001GenreComedy, RomanceRate:8.3/10}
+{title: Bridge of Spies | year: 2015GenreDrama, History, ThrillerRate:7.6/10}
+{title: Collateral Beauty | year: 2016GenreDrama, RomanceRate:6.8/10}
+{title: Insidious | year: 2010GenreHorror, Mystery, ThrillerRate:6.8/10}
+{title: Paper Moon | year: 1973GenreComedy, DramaRate:8.0/10}
+{title: Like Crazy | year: 2011GenreDrama, RomanceRate:6.7/10}
+{title: Exodus: Gods and Kings | year: 2014GenreAction, Drama, FantasyRate:6.0/10}
+{title: Real Steel | year: 2011GenreAction, Drama, Family, Sci-Fi, SportRate:7.1/10}
+{title: Selma | year: 2014GenreBiography, Drama, HistoryRate:7.5/10}
+{title: Seven Samurai | year: 1954GenreAction, Adventure, DramaRate:8.6/10}
+{title: Secret Window | year: 2004GenreDrama, Mystery, ThrillerRate:6.6/10}
+{title: The Flowers of War | year: 2011GenreDrama, History, Romance, WarRate:7.6/10}
+{title: Requiem for a Dream | year: 2000GenreDramaRate:8.3/10}
+{title: 3 Idiots | year: 2009GenreComedy, DramaRate:8.4/10}
+{title: Don Jon | year: 2013GenreComedy, Drama, RomanceRate:6.5/10}
+{title: The Danish Girl | year: 2015GenreBiography, Drama, RomanceRate:7.1/10}
+{title: Inside Out | year: 2015GenreAnimation, Adventure, Comedy, Drama, Family, FantasyRate:8.2/10}
+{title: The Fault in Our Stars | year: 2014GenreDrama, RomanceRate:7.7/10}
+{title: Spider-Man: Homecoming | year: 2017GenreAction, Adventure, Sci-FiRate:7.4/10}
+{title: Allied | year: 2016GenreAction, Drama, Romance, Thriller, WarRate:7.1/10}
+{title: Her | year: 2013GenreDrama, Romance, Sci-FiRate:8.0/10}
+{title: The Imitation Game | year: 2014GenreBiography, Drama, Thriller, WarRate:8.0/10}
+{title: The Greatest Showman | year: 2017GenreBiography, Drama, MusicalRate:7.6/10}
+{title: A Cure for Wellness | year: 2016GenreDrama, Fantasy, Horror, Mystery, Sci-Fi, ThrillerRate:6.4/10}
+{title: Life Is Beautiful | year: 1997GenreComedy, Drama, Romance, WarRate:8.6/10}
+{title: About Time | year: 2013GenreComedy, Drama, Fantasy, Romance, Sci-FiRate:7.8/10}
+{title: The Perks of Being a Wallflower | year: 2012GenreDrama, RomanceRate:8.0/10}
+{title: American Sniper | year: 2014GenreAction, Biography, Drama, WarRate:7.3/10}
+{title: Ex Machina | year: 2014GenreDrama, Mystery, Sci-Fi, ThrillerRate:7.7/10}
+{title: The Notebook | year: 2004GenreDrama, RomanceRate:7.8/10}
+{title: Insurgent | year: 2015GenreAction, Adventure, Sci-Fi, ThrillerRate:6.2/10}
+{title: Ghost in the Shell | year: 2017GenreAction, Drama, Sci-Fi, ThrillerRate:6.3/10}
+{title: A Beautiful Mind | year: 2001GenreBiography, DramaRate:8.2/10}
+{title: Inception | year: 2010GenreAction, Adventure, Sci-Fi, ThrillerRate:8.8/10}
+{title: Black Panther | year: 2018GenreAction, Adventure, Sci-FiRate:7.3/10}
+{title: Deadpool | year: 2016GenreAction, Adventure, Comedy, Sci-FiRate:8.0/10}
+{title: The Godfather: Part 2 | year: 2018GenreAction, Drama, ThrillerRate:7.3/10}
+{title: Interstellar | year: 2014GenreAdventure, Drama, Sci-FiRate:8.6/10}
+{title: La La Land | year: 2016GenreComedy, Drama, Music, Musical, RomanceRate:8.0/10}
+{title: The Maze Runner | year: 2014GenreAction, Mystery, Sci-Fi, ThrillerRate:6.8/10}
+{title: I Killed My Mother | year: 2009GenreDrama, RomanceRate:7.5/10}
+{title: 1984 | year: 1984GenreDrama, Sci-FiRate:7.1/10}
+{title: Django Unchained | year: 2012GenreDrama, WesternRate:8.4/10}
+{title: 20th Century Women | year: 2016GenreComedy, DramaRate:7.3/10}
+{title: 21 Grams | year: 2003GenreCrime, Drama, ThrillerRate:7.7/10}
+{title: I Am Legend | year: 2007GenreAdventure, Drama, Sci-Fi, ThrillerRate:7.2/10}
+{title: Split | year: 2016GenreHorror, ThrillerRate:7.3/10}
+{title: What Happened to Monday | year: 2017GenreAction, Crime, Drama, Mystery, Sci-Fi, ThrillerRate:6.9/10}
+{title: Memento | year: 2000GenreMystery, ThrillerRate:8.4/10}
+{title: The Age of Adaline | year: 2015GenreDrama, Fantasy, RomanceRate:7.2/10}
+{title: The Kingdom of Solomon | year: 2010GenreAction, Drama, History, WarRate:6.4/10}
+{title: Closely Watched Trains | year: 1966GenreComedy, Drama, Romance, WarRate:7.7/10}
+{title: Around the World in 80 Days | year: 2004GenreAction, Adventure, Comedy, Family, WesternRate:5.9/10}
+{title: The Intouchables | year: 2011GenreBiography, Comedy, DramaRate:8.5/10}
+{title: Pulp Fiction | year: 1994GenreCrime, DramaRate:8.9/10}
+{title: 12 Years a Slave | year: 2013GenreBiography, Drama, HistoryRate:8.1/10}
+{title: Spirited Away | year: 2001GenreAnimation, Adventure, Family, Fantasy, MysteryRate:8.6/10}
+{title: Sleepless in Seattle | year: 1993GenreComedy, Drama, RomanceRate:6.8/10}
+{title: Murder on the Orient Express | year: 2017GenreCrime, Drama, MysteryRate:6.5/10}
+{title: The Karate Kid | year: 1984GenreAction, Drama, Family, SportRate:7.2/10}
+{title: Fight Club | year: 1999GenreDramaRate:8.8/10}
+{title: 8 Mile | year: 2002GenreDrama, MusicRate:7.1/10}
+{title: Requiem for a Dream | year: 2000GenreDramaRate:8.3/10}
+{title: The City of Lost Children | year: 1995GenreFantasy, Sci-FiRate:7.6/10}
+{title: The Blue Elephant | year: 2014GenreDrama, Horror, Mystery, ThrillerRate:8.1/10}
+{title: Ronaldo | year: 2015GenreDocumentary, Biography, SportRate:6.4/10}
+{title: The Hitman's Bodyguard | year: 2017GenreAction, Comedy, ThrillerRate:6.9/10}
+{title: The Girl Who Leapt Through Time | year: 2006GenreAnimation, Adventure, Comedy, Drama, Family, Mystery, Romance, Sci-FiRate:7.8/10}
+{title: The Imitation Game | year: 2014GenreBiography, Drama, Thriller, WarRate:8.0/10}
+{title: Southpaw | year: 2015GenreDrama, SportRate:7.4/10}
+{title: The Departed | year: 2006GenreCrime, Drama, ThrillerRate:8.5/10}
+{title: Taxi Driver | year: 1976GenreCrime, DramaRate:8.3/10}
+{title: Backtrack | year: 2015GenreDrama, Fantasy, Mystery, ThrillerRate:5.9/10}
+{title: Regression | year: 2015GenreCrime, Horror, Mystery, ThrillerRate:5.7/10}
+{title: Kingsman: The Secret Service | year: 2014GenreAction, Adventure, Comedy, ThrillerRate:7.7/10}
+{title: Les Misérables | year: 2012GenreDrama, History, Musical, Romance, WarRate:7.6/10}
+{title: Stuck in Love. | year: 2012GenreComedy, Drama, RomanceRate:7.2/10}
+{title: An Education | year: 2009GenreDramaRate:7.3/10}
+{title: Fail-Safe | year: 1964GenreDrama, ThrillerRate:8.0/10}
